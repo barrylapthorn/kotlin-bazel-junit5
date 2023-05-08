@@ -57,6 +57,7 @@ maven_install(
         "org.junit.jupiter:junit-jupiter-api:%s" % JUNIT_JUPITER_VERSION,
         "org.junit.jupiter:junit-jupiter-params:%s" % JUNIT_JUPITER_VERSION,
         "org.junit.jupiter:junit-jupiter-engine:%s" % JUNIT_JUPITER_VERSION,
+        "org.junit.platform:junit-platform-console:1.4.2",
     ],
     repositories = [
         "https://repo1.maven.org/maven2",
