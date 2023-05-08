@@ -1,3 +1,4 @@
+package com.example
 
 class HelloWorld {
     fun hello() = "hello world"
